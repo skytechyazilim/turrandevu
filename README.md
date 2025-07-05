@@ -1,1 +1,1 @@
-tur sektörü için ranvu yönetim sistemi 
+tur sektörü için randevu yönetim sistemi 
